@@ -3,4 +3,4 @@ Move billing address just below shipping address and assign billing address from
 
 # Screen Shots
 
-![First Step](/assests/Checkout (1).png)
+![First Step](/assests/Checkout%20(1).png)
