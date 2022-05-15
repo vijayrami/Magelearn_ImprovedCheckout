@@ -1,6 +1,9 @@
 # Magelearn_ImprovedCheckout
 Move billing address just below shipping address and assign billing address from shipping step in Magento2.
 
+# Known Issue
+![M2.4.2 Customer Name Prefixes Showing as numbers not Mr., Mrs., Ms. etc](https://github.com/magento/magento2/issues/32177)
+
 # Screen Shots
 
 ![First Step](/assests/Checkout%20(1).png)
